@@ -31,9 +31,9 @@ const Header = () => (
 		</Div1>
 		<Div2>
 			<li>
-				<Link href="#about">
-					<NavLink>About Me</NavLink>
-				</Link>
+				<a href="https://d4r3-d3v1l.github.io/Blogs/" target="_blank">
+					<NavLink>Blogs</NavLink>
+				</a>
 			</li>
 			<li>
 				<Link href="#projects">
@@ -41,7 +41,7 @@ const Header = () => (
 				</Link>
 			</li>
 			<li>
-				<Link href="#skills">
+				<Link href="#skill">
 					<NavLink>Skills</NavLink>
 				</Link>
 			</li>
