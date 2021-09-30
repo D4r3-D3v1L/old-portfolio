@@ -21,6 +21,7 @@ import { Languages } from "../../constants/constants";
 const Technologies = () => (
 	<Section id="skill">
 		<SectionDivider />
+		<br />
 		<SectionTitle>Skills</SectionTitle>
 		<List>
 			<ListItem>
@@ -31,6 +32,16 @@ const Technologies = () => (
 					<ListParagraph>
 						Python <br />
 						Java <br />
+						Javascript
+						<br />
+						Typescript
+						<br />
+						C <br />
+						Bash
+						<br />
+						MySQL <br />
+						MongoDB
+						<br />
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
@@ -41,6 +52,10 @@ const Technologies = () => (
 					<ListParagraph>
 						Nodejs <br />
 						Ionic <br />
+						Angular <br />
+						ReactJS <br />
+						Flask
+						<br />
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
@@ -51,6 +66,11 @@ const Technologies = () => (
 					<ListParagraph>
 						Git <br />
 						Web Security <br />
+						Wireshark
+						<br />
+						Linux <br />
+						BurpSuite
+						<br />
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>

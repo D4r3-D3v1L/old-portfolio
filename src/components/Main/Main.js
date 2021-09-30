@@ -14,8 +14,9 @@ const Main = () => (
 			<SectionTitle main center>
 				Surya Prakash Akula
 			</SectionTitle>
-			<SectionText>This is Just a Portfolio Website</SectionText>
+			<SectionText></SectionText>
 			<Button
+				style={{ color: "red" }}
 				onClick={() =>
 					(window.location =
 						"https://drive.google.com/file/d/1httn-f627taK0JQJFhgkEdygNFF2xCVE/view?usp=sharing")

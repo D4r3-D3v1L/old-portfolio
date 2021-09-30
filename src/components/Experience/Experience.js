@@ -66,6 +66,8 @@ const Timeline = () => {
 
 	return (
 		<Section id="experience">
+			<SectionDivider />
+			<br />
 			<SectionTitle>Experience</SectionTitle>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>
 				<>
