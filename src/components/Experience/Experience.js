@@ -88,7 +88,6 @@ const Timeline = () => {
 									<>
 										<CarouselItemText key={index}>
 											* {text}
-											<Hr />
 										</CarouselItemText>
 									</>
 								))}

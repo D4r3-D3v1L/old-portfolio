@@ -139,9 +139,7 @@ export const CarouselButtons = styled.div`
 	}
 `;
 export const Hr = styled.hr`
-	color: transparent;
 	background: none;
-	padding: 4px;
 	border: none;
 `;
 export const CarouselButton = styled.button`
