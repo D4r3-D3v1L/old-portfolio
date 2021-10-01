@@ -25,6 +25,15 @@ const Footer = () => {
 						D4r3_D3v1L
 					</LinkItem>
 				</LinkColumn>
+				<LinkColumn>
+					<LinkTitle>Email</LinkTitle>
+					<LinkItem
+						href="mailto:d4r3d3v1l.asp@gmail.com"
+						target="_blank"
+					>
+						d4r3d3v1l.asp@gmail.com
+					</LinkItem>
+				</LinkColumn>
 			</LinkList>
 		</FooterWrapper>
 	);

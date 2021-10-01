@@ -16,7 +16,6 @@ const Main = () => (
 			</SectionTitle>
 			<SectionText></SectionText>
 			<Button
-				style={{ color: "red" }}
 				onClick={() =>
 					(window.location =
 						"https://drive.google.com/file/d/1httn-f627taK0JQJFhgkEdygNFF2xCVE/view?usp=sharing")
