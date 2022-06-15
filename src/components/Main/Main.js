@@ -18,7 +18,7 @@ const Main = () => (
 			<Button
 				onClick={() =>
 					(window.location =
-						"https://drive.google.com/file/d/1httn-f627taK0JQJFhgkEdygNFF2xCVE/view?usp=sharing")
+						"https://drive.google.com/file/d/1A06p1yTNN6Fjy-VT-Yl9OQsiQkzheXCt/view?usp=sharing")
 				}
 			>
 				Resume
